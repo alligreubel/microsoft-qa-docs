@@ -3,13 +3,13 @@
 On Microsoft Q&A, we are using two different surveys to track customer satisfaction with the platform:<br>
 1. **Sampled visitor survey:** This survey is triggered for 30% of all users who:
 <br> a. Scroll down to 500 pixels from the bottom of the page they are on
-<br> b. Have been on Q&A for 1 minute<br>
+<br> b. Have been on Q&A for 1.5 minutes<br>
 ![Screenshot of customer satisfaction survey](media/sampledvisitor_survey.PNG)
 
 
 2. **Original poster (OP) survey:** This survey is triggered for 100% of users who:
 <br> a. Ask a question and navigate away from the page
-<br> b. Return to the question page<br>
+<br> b. Return to the question page, and stay on page for 5 minutes<br>
 ![Screenshot of question asking experience survey](media/op_survey.PNG)
 
 **OP survey details:**
