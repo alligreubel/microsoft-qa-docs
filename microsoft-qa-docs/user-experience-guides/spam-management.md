@@ -19,7 +19,7 @@ When you are moderator, you can see a *Moderation* option when you click on your
 
 This tab is for content caught by AnswerHub's Shield plugin. Posts will go into this folder if:
 
-1. A user is posting more than one question in less than 5 minutes. The second and Second question and any subsequent questions will go to this folder.
+1. A user is posting more than one question in less than 5 minutes in Production (in PPE, this option is set to 0 so we can do automatation testing). The second and Second question and any subsequent questions will go to this folder.
 1. A user enters a phrase more than 10 times in their question. Example "phone number".
 1. Spammers usually replace standard letters and numbers with characters that mimic the original ones. When the amount of unusual characters exceeds 40%, this is considered spam.
 
