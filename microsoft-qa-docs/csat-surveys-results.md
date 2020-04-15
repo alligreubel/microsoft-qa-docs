@@ -9,12 +9,13 @@ On Microsoft Q&A, we are using two different surveys to track customer satisfact
 
 2. **Original poster (OP) survey:** This survey is triggered for 100% of users who:
 <br> a. Ask a question and navigate away from the page
-<br> b. Return to the question page, and stay on page for 5 minutes<br>
+<br> b. Return to the question page, where an answer has been proposed
+<br> c. Stay on page for 5 minutes<br>
 ![Screenshot of question asking experience survey](media/op_survey.PNG)
 
 **OP survey details:**
 <br>- You will **not** be notified of a survey response if you answer a question. The original poster's survey response will not impact your Microsoft Q&A reputation points.
-<br>- The survey will surface to the question asker every time they visit the question page, even if they have already completed the survey.
+
 
 >[!NOTE]
 > Both of these surveys have been created using a third-party survey service, [Usabilla](https://usabilla.com/). 
