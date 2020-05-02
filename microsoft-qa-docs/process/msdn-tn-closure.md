@@ -33,34 +33,10 @@ Dev Relations will post all the announcements.
 
 **Where**:  Announcement and/or Sticky Post in the Forum to set up as read-only. Moderators and answerers are also encouraged to add that notification as part of their responses.
 
+**Who:** Support teams or Product groups for that forum. The text to use is in [this document](https://microsoft.sharepoint.com/:w:/t/CE_APEX/ERtOTGRg7y9PjpkSZ9P44EsBgkOLbSm5iEGw3LKdtG3vLw?e=uIjyXq).
+
 <!--
-**Message**
-
-*Title:*
-
-{forum-name} forum will be migrating to a new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn)!
-
-*Body:*
-
-We've listened to your feedback on how we can enhance the forum experience. [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) allows us to add new functionality and enables easier access to all the technical resources most useful to you, like Microsoft Docs and Microsoft Learn.
-
-**Now until {T+3 weeks}:**
-
-* You can post any new questions on Microsoft Q&A (Preview) or here.
-
-**From {T+3 weeks} until {T+5 weeks}:**
-
-* New posts – Post any new questions in the {forum-name} forum's new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn). The current forum will not allow any new questions.
-* Existing posts – Interact here with existing content, answer questions, provide comments, etc.
-
-**{T+5 weeks} onwards:**
-
-* This forum will be closed to all new and existing posts and all interactions will be in [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn).
-We are excited about moving to [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) and seeing you there.
-
-[Learn More](https://aka.ms/docsqalearnmore)
-
--->
+**Message**: [this document](https://microsoft.sharepoint.com/:w:/t/CE_APEX/ERtOTGRg7y9PjpkSZ9P44EsBgkOLbSm5iEGw3LKdtG3vLw?e=uIjyXq)
 
 **Visual**
 ![first announcement: forum will be read only](media/announcement1-forum-will-be-read-only.png)
