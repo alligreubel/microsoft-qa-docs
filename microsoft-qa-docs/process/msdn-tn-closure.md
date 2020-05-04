@@ -19,9 +19,9 @@ The goals of this page are twofold:
 > [!IMPORTANT]
 > We only support retiring a batch of forums with the same T at a time. In other words, if we're retiring forum A and forum B and they have a different retirement date and the date is within 8 weeks, we don't support the scenario right now.
 
-Dev Relations will post all the announcements.
+**Who*:*
 
-* The first announcement will be posted by the Dev Relations PM.
+* The first announcement will be posted by the support teams or Product Groups owning the forum.
 * For the second and third announcement, Dev Relations PM will open a Dev Task for engineering to deploy the code for the forum in scope. Information needed:
    * Forum name
    * Date of deployment
@@ -31,9 +31,10 @@ Dev Relations will post all the announcements.
 
 **When**: T
 
-**Where**:  Announcement and/or Sticky Post in the Forum to set up as read-only. Moderators and answerers are also encouraged to add that notification as part of their responses.
+**Where**:  Announcement and/or Sticky Post in the Forum to set up as read-only. Moderators and answerers are also encouraged to add that notification as part of their responses. We recommend a sticky post so users can reply back with concerns and questions on the forum closure. 
 
 **Who:** Support teams or Product groups for that forum. The text to use is in [this document](https://microsoft.sharepoint.com/:w:/t/CE_APEX/ERtOTGRg7y9PjpkSZ9P44EsBgkOLbSm5iEGw3LKdtG3vLw?e=uIjyXq).
+
 
 <!--
 **Message**: [this document](https://microsoft.sharepoint.com/:w:/t/CE_APEX/ERtOTGRg7y9PjpkSZ9P44EsBgkOLbSm5iEGw3LKdtG3vLw?e=uIjyXq)
@@ -166,3 +167,16 @@ Visit [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdn
 [Learn More](https://aka.ms/docsqalearnmore)
 
 -->
+
+## FAQ
+
+**Q:** For the first announcement, why are we doing a sticky post or an announcement instead of a banner?
+**A:** Because a sticky post gives the users the opportunity to ask questions they might have on the forum closure. Due to the length of the text, the banner will also be very long and very invasive.
+
+**Q:** For each MSDN/TechNet forum, can I send to the users to a different page in Q&A?
+**A:**: No. The main reason is that a user might select forums from different categories. In that case, we will not have a common page to send the users.
+
+**Q:** Can I change the text for the sticky post or banners?
+**A:**: No. Using the provided text for the sticky post, will warrantee that the user will have the same experience across the platform. Moreover, this text has been approved my marketing and we should follow it.
+
+For the banners, the main reason is that a user might select forums from different categories. In that case, we will not have a common text to use. Also, 
