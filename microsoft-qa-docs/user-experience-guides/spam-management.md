@@ -53,11 +53,8 @@ Note that until a moderation has taken action, the content will continue to be d
 
 ### Steps to follow if the content is spam
 
-1. Click on *Delete the content* link, so the content is removed from the site.
 1. Click on *Reject as spam*.
 1. The content is moved to the ["Spam" tab](#automatic-spam-filtering---the-spam-tab) and report the post as spam to Akismet to help them improve their spam algorithm.
-
-Note that you cannot Reject as Spam a content that is deleted.
 
 ### Steps to follow if the content is not spam
 
@@ -78,7 +75,6 @@ Note that the Spam folder shows content reported from oldest to newest. So you n
 1. Evaluate which part of the thread has been reported: question, answer, feedback, comment.
 1. Click on the link to go to the content.
 1. Click on the gear icon next to the content piece that contains the spam (question, answer, feedback, comment).
-1. Click on *Delete*. As a moderator, you will see a label indicating the content is being deleted. Regular users will not see the deleted content though.
 1. Go back to the moderation page, Spam tab, and Suspend the user if necessary.
 
 > [!TIP]
