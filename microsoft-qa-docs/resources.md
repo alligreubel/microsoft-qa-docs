@@ -11,6 +11,10 @@ If you want to stay up to date via mail notifications when one of our services i
 > [!IMPORTANT]
 > You will get notifications for all Dev Rel Services, not jut for Q&A.
 
+## Platform issues SLAs
+
+See [DevRel Site Reliability Engineering SLA](https://aka.ms/devrelsla).
+
 ## aka.ms Links
 
 The following are the links we have created for some of the documentation that will ship in Q&A service. This can be used by onboarding teams to include in their documentation.
