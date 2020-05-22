@@ -1,8 +1,6 @@
 # Microsoft Q&A Resources
 
-- AnswerHub latest user documentation: https://developer.devada.com/docs/introduction-1
-
-For questions or requests, please send mail to [Jian Dong](mailto:jiandong@microsoft.com)
+AnswerHub latest user documentation: https://developer.devada.com/docs/introduction-1
 
 ## Stay up to date when services are down
 
@@ -26,4 +24,4 @@ The following are the links we have created for some of the documentation that w
 - Reputation: https://aka.ms/msftqareputation
 - Site feedback: https://aka.ms/msftqafeedback
 - Ask a question: https://aka.ms/msftqaaskquestion
-- PowerBI report: https://aka.ms/msftqabireport with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors.
+- PowerBI report: https://aka.ms/msftqabireport with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors. For questions or requests, please send mail to [Jian Dong](mailto:jiandong@microsoft.com).
