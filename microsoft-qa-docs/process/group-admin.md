@@ -12,6 +12,16 @@ Being a user group admin on Microsoft Q&A allows you to add or remove users to t
 
 ## To add members to the group
 
+> [!NOTE]
+> Before you can add users to any group, the user has to create a profile first at [Docs profile](http://docs.microsoft.com/users/me).
+
+**PRE-REQUISITES**
+
+* The user has created a Docs profile
+* You are in the [Manage Group](https://docs.microsoft.com/en-us/answers/admin/groups/index.html) page.
+
+**Steps**
+
 1. Once you are in the user group, in the "Add a New Member" text box, type the user’s profile name or mail address.
 1. Click on the user. Ensure that you select the right person, in case of multiple matches.
 1. The person is part of the group.
