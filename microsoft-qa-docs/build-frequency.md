@@ -26,8 +26,8 @@ If the build passes our quality gates, the build will be **deployed to productio
 ## How can I stay informed on build deployments, bug fixes, and new features?
 
 1. **PPE**
-    - We will have a [sticky post](https://ppe.docs.microsoft.com/en-us/answers/questions/6531/05082020-build-29-deployed-to-ppe.html?branch=master) indicating that the build is deployed and a link to Devada's release notes.
-    - You can subscribe to the [sticky post](https://ppe.docs.microsoft.com/en-us/answers/questions/6531/05082020-build-29-deployed-to-ppe.html?branch=master) and get a mail notification when there is updates about it. 
+    - We will have a sticky post indicating that the build is deployed and a link to Devada's release notes.
+    - You can subscribe to this tag [tag-for-ppe-build-deployment-only](https://ppe.docs.microsoft.com/en-us/answers/topics/tag-for-ppe-build-deployment-only.html?branch=master) and get a mail notification when there is a new build available.
 2. **Production**
     - We will update the [Release notes](platform-improvements.md) page. Release notes will include fixes/features both from Dev Relations and Devada.
     - We will send a monthly notification with all the improvements made to [Technical Q&A Partner Announcements](devrelannouncetechqa@microsoft.com). Make sure you subscribe to that DL if you want to get these notifications. 
