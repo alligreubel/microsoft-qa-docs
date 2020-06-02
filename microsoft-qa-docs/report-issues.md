@@ -2,11 +2,16 @@
 
 Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) to report any issues or requests regarding Microsoft Q&A. This will ensure the issue gets routed to the right team and we can maintain our SLAs for live site incidents. 
 
+> [!IMPORTANT]
+> Once you submit the ticket in SiteHelp, you will get a link to the corresponding ticket found. All the conversations, request for status, etc. should be done within that ticket.
+
 ## How to file a ticket via SiteHelp
 
 Once you are in [SiteHelp](https://sitehelp.microsoft.com/new?fid=49), select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
 
 ## Platform issues
+
+**Escalation contact:** Aman Singh.
 
 > [!TIP]
 > See our [DevRel Site REliability engineering SLA](https://review.docs.microsoft.com/en-us/sre/sla?branch=master) for more info on what issues qualify for this category and their severity.
@@ -21,6 +26,8 @@ Once you are in [SiteHelp](https://sitehelp.microsoft.com/new?fid=49), select **
 
 ## Issues on PPE
 
+**Escalation contacts:** Aman Singh and Sandra Aldana
+
 There will be sometimes you are in our PPE environment doing some testing or testing a new feature that is not yet released yet. In those cases, you use this category. 
 
 1. Under *Select Service Category*, select **Pre-production issues on ppe.docs.microsoft.com/answers site**.
@@ -31,6 +38,8 @@ There will be sometimes you are in our PPE environment doing some testing or tes
 1. Click **Submit**.
 
 ## Bugs
+
+**Escalation contacts:** Sandra Aldana
 
 This option is for bugs on existing functionality, such as broken links, an option is missing, number of following items do not appear on the site, etc.
 
