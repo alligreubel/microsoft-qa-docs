@@ -1,41 +1,53 @@
 # Reporting issues with the Microsoft Q&A platform
 
+Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) to report any issues or requests regarding Microsoft Q&A. This will ensure the issue gets routed to the right team and we can maintain our SLAs for live site incidents. 
+
+## How to file a ticket via SiteHelp
+
+Once you are in [SiteHelp](https://sitehelp.microsoft.com/new?fid=49), select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
+
 ## Platform issues
 
-Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) for any platform issues such as:
+> [!TIP]
+> See our [DevRel Site REliability engineering SLA](https://review.docs.microsoft.com/en-us/sre/sla?branch=master) for more info on what issues qualify for this category and their severity.
 
-1. Site is down
-2. Performance issues
-3. Cannot do one of the main write actions: post a question, answer, comment, or feedback.
-4. Content goes to moderation by error.
-5. Etc.
+1. Select **Production Issues on docs.microsoft.com/answers site** under *Select Service Category* for any live site incidents, such as site is down, performing badly, cannot post, etc.
+1. Enter a brief title of the issue.
+1. Select the severity.
+1. Provide as many details as possible of the issue.
+1. Click **Submit**.
 
-Once you are in SiteHelp, you will see the following options:
+![Site Help options for platform issues](media/sitehelp.png)
 
-![Site Help options](media/sitehelp.png)
+## Issues on PPE
 
-If you are pressed for time (such as the site is down), you can also reach [APEXLS](mailto:APEXLS@microsoft.com).
+There will be sometimes you are in our PPE environment doing some testing or testing a new feature that is not yet released yet. In those cases, you use this category. 
 
-We highly recommend SiteHelp for logging all issues as it will allow us to properly track and maintain our SLA’s.
+1. Under *Select Service Category*, select **Pre-production issues on ppe.docs.microsoft.com/answers site**.
+1. Enter a brief title of the issue.
+1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
+1. Attach a file describing your issue
+1. Provide as many details as possible of the issue.
+1. Click **Submit**.
 
 ## Bugs
 
-If you find bugs on the user experience, such as
+This option is for bugs on existing functionality, such as broken links, an option is missing, number of following items do not appear on the site, etc.
 
-1. Content appears in a different language
-2. Cannot edit tag description
-3. Number of following items do not appear on the site
-4. Etc.
-
-Then, you report a bug to the PM team in our DevOps instance. 
-
-1. If you are from Azure, then you use the [Q&A bugs from Azure CXP Community](https://ceapex.visualstudio.com/Engineering/_workitems/create/Bug?templateId=4b271355-2163-4707-af36-6b3b98b7d5c0&ownerId=1e0d3b3c-60b1-45ae-809b-60c7f036b008)
-2. If you are from the CSS Developer team, then you use the [Q&A bugs from CSS](https://ceapex.visualstudio.com/Engineering/_workitems/create/Bug?templateId=4cd43e35-bac1-4674-af71-04dceca9fc33&ownerId=1e0d3b3c-60b1-45ae-809b-60c7f036b008).
-3. If you are from another team, please enter the bug directly in [Microsoft Q&A - Feedback section](https://docs.microsoft.com/answers/content/idea/list.html)
+1. Under *Select Service Category*, select **Bug**.
+1. Enter a brief title of the issue.
+1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
+1. Attach a file describing your issue.
+1. Provide as many details as possible of the issue.
+1. Click **Submit**.
 
 ## Feature requests
 
-If you want to provide improvements in the platform, then you have two options:
+This option is for functionality that do not exist today that you wish it existed, such as tag synonyms, site notifications, etc.
 
-1. If you are from Azure CXP Team or CSS Developer, contact [Sandra Aldana](mailto:saldana). We will work with you to enter the feature requests and get them prioritized.
-2. If you are from another team, please enter the bug directly in [Microsoft Q&A - Feedback section](https://docs.microsoft.com/answers/content/idea/list.html)
+1. Under *Select Service Category*, select **Feature Request**.
+1. Enter a brief title of the new functionality.
+1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
+1. Attach a file showing a mockup or how another site is solving this problem.
+1. Provide as many details as possible of what you want and why.
+1. Click **Submit**.
