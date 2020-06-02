@@ -2,21 +2,28 @@
 
 AnswerHub latest user documentation: https://developer.devada.com/docs/introduction-1
 
-## Stay up to date when services are down
+## Partner aliases
 
-If you want to stay up to date via mail notifications when one of our services is down and updates until issues are resolve, join this DG: [C+AI DevRel LSI Notification](mailto:apexlsi@microsoft.com).
+### Stay up to date when services are down
+
+If you want to stay up to date via mail notifications when one of our services is down and updates until issues are resolve, join this DG: [C+AI DevRel LSI Notification](https://idwebelements/GroupManagement.aspx?Group=apexlsi&Operation=join).
 
 > [!IMPORTANT]
 > You will get notifications for all Dev Rel Services, not jut for Q&A.
 
-## Platform issues SLAs
+### Platform issues SLAs
 
-See [DevRel Site Reliability Engineering SLA](https://aka.ms/devrelsla).
+### Receive day-to-day updates
 
-## aka.ms Links
+If you work on Q&A on any capacity, join the [Microsoft Q&A partners](https://idwebelements/GroupManagement.aspx?Group=qnapartners&Operation=join) distribution list to get updates on upcoming features, known issues with the platform, API limitations, etc.
 
-The following are the links we have created for some of the documentation that will ship in Q&A service. This can be used by onboarding teams to include in their documentation.
+### Receive major platform announcements
 
+To receive major updates on new features shipped or any other key announcement, please join [Microsoft Q&A partner announcements](https://idwebelements/GroupManagement.aspx?Group=devrelannouncetechqa&Operation=join)
+
+## Other resources
+
+- [DevRel Site Reliability Engineering SLA](https://aka.ms/devrelsla).
 - Microsoft Q&A: https://aka.ms/msftqa
 - Blog post release announcement: https://aka.ms/msftqablog and https://aka.ms/msftqalearnmore
 - Code of Conduct: https://aka.ms/msftqacodeconduct
