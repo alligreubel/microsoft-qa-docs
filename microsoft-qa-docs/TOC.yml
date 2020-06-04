@@ -4,10 +4,10 @@
   href: msdn-tn-permissions.md  
 - name: Onboarding guidelines
   items:
-    - name: Hub pages
-      href: onboard/hub-page.md
     - name: Tag Guidelines
       href: onboard/tag-guidelines.md
+    - name: Hub pages
+      href: onboard/hub-page.md
 - name: User Experiences
   href: user-experience-guides/index.md
   items:
