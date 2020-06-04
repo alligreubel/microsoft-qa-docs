@@ -11,8 +11,6 @@ If you want to stay up to date via mail notifications when one of our services i
 > [!IMPORTANT]
 > You will get notifications for all Dev Rel Services, not jut for Q&A.
 
-### Platform issues SLAs
-
 ### Receive day-to-day updates
 
 If you work on Q&A on any capacity, join the [Microsoft Q&A partners](https://idwebelements/GroupManagement.aspx?Group=qnapartners&Operation=join) distribution list to get updates on upcoming features, known issues with the platform, API limitations, etc.
@@ -23,6 +21,7 @@ To receive major updates on new features shipped or any other key announcement, 
 
 ## Other resources
 
+- [SiteHelp](https://sitehelp.microsoft.com/new?fid=49). See [Reporting issues with the Microsoft Q&A platform](report-issues.md) for more information.
 - [DevRel Site Reliability Engineering SLA](https://aka.ms/devrelsla).
 - Microsoft Q&A: https://aka.ms/msftqa
 - Blog post release announcement: https://aka.ms/msftqablog and https://aka.ms/msftqalearnmore
