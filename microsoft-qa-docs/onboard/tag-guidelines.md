@@ -38,7 +38,7 @@ In Microsoft Q&A, tags can have a hierarchy (i.e. a parent-child relationship):
 
 - Level 1 (L1). Tag at this level is usually the brand the product/service belongs to. For example, "azure", "windows". As this tag is very general, it might not be used for tagging, and it should be *Invisible* to users.
 - Level 2 (L2). Depending on your brand offering, you might use this level for a category or offering (for example, *Azure Compute*), or for an actual service name (for example, *Dynamics Commerce*). If the tag represents a category or an offering, then this tags is marked as invisible; otherwise, it is visible.
-- Level 3 (L3). This level is necessary if your L2 tag is not a category. This tag should denote your service name
+- Level 3 (L3). This level is necessary if your L2 tag is a category. This tag should describe your service name.
 
 We believe that we should stay as high-levels with tags as possible to make them easily identified by users. However, if you need Level 4 (L4) tags, provide the following information:
 
