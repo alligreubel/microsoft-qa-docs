@@ -8,7 +8,7 @@
       href: onboard/tag-guidelines.md
     - name: Hub pages
       href: onboard/hub-page.md
-    - name: User Experiences
+- name: User Experiences
   href: user-experience-guides/index.md
   items:
     - name: Askers
