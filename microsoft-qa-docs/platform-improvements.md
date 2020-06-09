@@ -2,7 +2,15 @@
 
 This document shows a list of bugs/improvements done in Microsoft Q&A. Those are a combination of internal feedback, customer feedback, and our own testing.
 
-<!--
+## June 8, 2020
+
+- Accessibility contrast issues
+- "Personalized Feed" shows tags
+- Autosuggest works for compound tags
+- Losses format for Code Block
+- Additional paragraph tags get added when editing Comment or Answer
+- Upload of SVG files for tags
+
 ## Jan 1-31, 2020
 
 ### AnswerHub fixes
@@ -32,9 +40,8 @@ Shipped via continuous development:
 
 - Updating Tech Profile user details get reflected automatically in Q&A
 - Q&A activity shows in Tech Profile for all users
--->
 
-## November 25-December 31 2019
+## November 25-December 31, 2019
 
 ### AnswerHub fixes
 
