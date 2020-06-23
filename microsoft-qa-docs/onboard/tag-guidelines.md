@@ -71,8 +71,8 @@ We believe that we should stay as high-levels with tags as possible to make them
 
 Tag descriptions help customers to better understand which service the tag represents.
 
-- All tag descriptions start with "Questions about..."
-- All tag descriptions should be short and to the point. Try to keep them under 255 characters if possible.
+- Tag descriptions start with "Questions about..."
+- Tag descriptions have a maximum of 255 characters to keep them short and to the point.
 
 ### Tag icon
 
@@ -84,9 +84,9 @@ Tag descriptions help customers to better understand which service the tag repre
 
 ## Template
 
-Provide the tag information following this [Q&A tags template](https://microsoft.sharepoint.com/:x:/t/CE_APEX/ET0zpsPxys9OjwHM55mftCgBHeKGIfX1NywjKX6USs6_-Q?e=fXOEMs) spreadsheet.
-
-Send the spreadsheet to [Sandra Aldana](mailto:saldana)
+1. Create a copy of the [Q&A tags template](https://microsoft.sharepoint.com/:x:/t/CE_APEX/ET0zpsPxys9OjwHM55mftCgBHeKGIfX1NywjKX6USs6_-Q?e=fXOEMs) spreadsheet.
+2. Fill it out with your information.
+3. Send the spreadsheet to [Sandra Aldana](mailto:saldana)
 
 ## Resources
 
