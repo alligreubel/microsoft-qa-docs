@@ -14,7 +14,7 @@ Once you are in [SiteHelp](https://sitehelp.microsoft.com/new?fid=49), select **
 **Escalation contact:** Aman Singh.
 
 > [!TIP]
-> See our [DevRel Site REliability engineering SLA](https://review.docs.microsoft.com/en-us/sre/sla?branch=master) for more info on what issues qualify for this category and their severity.
+> See our [Q&A SLA](https://review.docs.microsoft.com/en-us/sre/qnasla?branch=master) for more info on what issues qualify for this category and their severity.
 
 1. Select **Production Issues on docs.microsoft.com/answers site** under *Select Service Category* for any live site incidents, such as site is down, performing badly, cannot post, etc.
 1. Enter a brief title of the issue.
