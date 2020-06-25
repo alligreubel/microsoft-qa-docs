@@ -61,7 +61,7 @@ This option is for functionality that do not exist today that you wish it existe
 1. Provide as many details as possible of what you want and why.
 1. Click **Submit**.
 
-## Get added to a permission group
+## Permission requests
 
 By default, any user creating a profile will have basic functionality in Microsoft Q&A such as ask a question, answer, add comments, etc. However, some users might need additional permisions. So use this option if you think you need to be added to any of the following group:
 
