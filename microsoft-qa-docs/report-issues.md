@@ -65,15 +65,15 @@ This option is for functionality that do not exist today that you wish it existe
 
 By default, any user creating a profile will have basic functionality in Microsoft Q&A such as ask a question, answer, add comments, etc. However, some users might need additional permisions. So use this option if you think you need to be added to any of the following group:
 
-1. Azure CXP Moderator - If you are part of the Azure CXP team.
-1. CSS Moderators - If you are part of the CSS team.
-1. Microsoft Moderators - If you want to be a moderator and are not in the Azure CXP or CSS group.
-1. Product Group - If you are part of a Product Group.
+1. *Azure CXP Moderator* - If you are part of the Azure CXP team.
+1. *CSS Moderators* - If you are part of the CSS team.
+1. *Microsoft Moderators* - If you want to be a moderator and are not in the Azure CXP or CSS group.
+1. *Product Group* - If you are part of a Product Group.
 
 > [!TIP]
 > For any other permission requests, please contact [Sandra Aldana](mailto:saldana).
 
-Steps:
+**Steps**:
 
 1. Under *Select Service Category*, select **Site Permissions**.
 1. Enter in the title which group you want to be added.
