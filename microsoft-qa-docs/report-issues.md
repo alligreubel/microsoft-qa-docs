@@ -1,4 +1,4 @@
-# Reporting issues or improvements in the Microsoft Q&A platform
+# Reporting issues or improvements for Microsoft Q&A
 
 Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) to report any issues or requests regarding Microsoft Q&A. This will ensure the issue gets routed to the right team and we can maintain our SLAs for live site incidents. 
 
