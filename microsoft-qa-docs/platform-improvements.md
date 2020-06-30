@@ -5,6 +5,8 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 ## June 29, 2020
 
 - Copy and paste images in the editor
+- Multiline text gets merged into single line
+- Editor line spacing is not persisted post save
 - Tag export and import in bulk
 - Custom HTTP Header Length to reduce 400 errors
 
