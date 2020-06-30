@@ -2,6 +2,16 @@
 
 This document shows a list of bugs/improvements done in Microsoft Q&A. Those are a combination of internal feedback, customer feedback, and our own testing.
 
+## June 29, 2020
+
+- Copy and paste images in the editor
+- Tag export and import in bulk
+- Custom HTTP Header Length to reduce 400 errors
+
+## June 15, 2020
+
+- New session and remember me cookie timeout settings provide increased configurability of user sessions
+
 ## June 8, 2020
 
 - Accessibility contrast issues
