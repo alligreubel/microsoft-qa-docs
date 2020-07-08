@@ -1,1 +1,1 @@
-# Hub pages
+# Hub Pages
