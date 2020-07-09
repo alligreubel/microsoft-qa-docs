@@ -13,8 +13,8 @@ The goals of this page are twofold:
 |Date     |Phase  |
 |---------|---------|
 |T     | First announcement: Forum will be read-only        |
-|T+3 weeks     | Second announcement: Forum does not take new questions. Users can still follow on existing questions.        |
-|T+5 weeks     | Third announcement: Forum is read-only        |
+|T+2 weeks     | Second announcement: Forum does not take new questions. Users can still follow on existing questions.        |
+|T+4 weeks     | Third announcement: Forum is read-only        |
 
 > [!IMPORTANT]
 > We only support retiring a batch of forums with the same T at a time. In other words, if we're retiring forum A and forum B and they have a different retirement date and the date is within 8 weeks, we don't support the scenario right now.
