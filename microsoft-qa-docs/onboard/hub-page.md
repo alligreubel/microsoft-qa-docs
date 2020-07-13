@@ -1,5 +1,7 @@
 # Hub Pages
 
+Hub pages are also called Navigation Pages or Q&A products pages. Those terms will be used interchangable in this document.
+
 1. These are pages that contain information about which products Q&A support. They can serve two purposes:
 - Users can visit to see which products we support in Q&A.
 - Teams can use these pages as landing pages from their sites, blog posts, etc.
@@ -15,3 +17,7 @@
 > ## Common Q&A:
 - Q: Can i have the Azure page look and feel?
 - A: No, that page is reserved for Azure only at the moment. We are looking at how to expand the left nav to other brands and products, but we dont have a concrete date for when that will be available.
+
+## Resources
+
+- [Navigation page templates and limitations](https://review.docs.microsoft.com/en-us/help/contribute/contribute-how-to-write-hub-page?branch=master)
