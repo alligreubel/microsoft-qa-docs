@@ -6,7 +6,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 - Editor issues fixed:
     - Code format is lost while saving and when there are form errors
-    - WMD Editor adds paragraph tags '<p>' in Answer body when there is user mention
+    - WMD Editor adds paragraph tags `<p>` in Answer body when there is user mention
     - Updating a second image, removed the first image
     - HTML in the title gets removed
 - When changing an idea status, the Settings context menu opens
