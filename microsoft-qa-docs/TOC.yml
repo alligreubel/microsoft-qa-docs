@@ -8,6 +8,8 @@
       href: onboard/tag-guidelines.md
     - name: Hub pages
       href: onboard/hub-page.md
+    - name: Permissions
+      href: onboard/permissions.md
 - name: User Experiences
   href: user-experience-guides/index.md
   items:
