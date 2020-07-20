@@ -4,6 +4,16 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 ## June 29, 2020
 
+- Editor issues fixed:
+    - Code format is lost while saving and when there are form errors
+    - WMD Editor adds paragraph tags '<p>' in Answer body when there is user mention
+    - Updating a second image, removed the first image
+    - HTML in the title gets removed
+- When changing an idea status, the Settings context menu opens
+- Accessibility bugs
+
+## June 29, 2020
+
 - Copy and paste images in the editor
 - Multiline text gets merged into single line
 - Editor line spacing is not persisted post save
