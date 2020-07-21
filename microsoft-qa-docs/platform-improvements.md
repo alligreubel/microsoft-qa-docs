@@ -10,6 +10,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
     - Updating a second image, removed the first image
     - HTML in the title gets removed
     - Answers are shown blank when the text has @ code 
+    - Format is lost and additional tags getting added on converted comment
 - When changing an idea status, the Settings context menu opens
 - Accessibility bugs
 
