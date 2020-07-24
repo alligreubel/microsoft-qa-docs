@@ -11,7 +11,7 @@
 |View content in moderation    |Revoked      | Revoked    |   Granted      |
 |Manage content in moderation queue  |Revoked    |   Revoked   |   Granted     |
 |Make site sticky     |Revoked       |  Revoked         |  Granted       |
-|Suspend user    |Revoked           |    Revoke      |   Granted      |
+|Suspend user    |Revoked           |    Revoked      |   Granted      |
 |Edit tags within a post    |Revoked     | Granted        |     Granted    |
 |Edit any content    |Revoked        |    Granted     |    Granted     |
 |Redirect questions     | Revoked          |  Granted       |   Granted      |
