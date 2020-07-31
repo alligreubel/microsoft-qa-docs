@@ -14,7 +14,7 @@ Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) to report any i
 > [!TIP]
 > See our [Q&A SLA](https://review.docs.microsoft.com/en-us/sre/qnasla?branch=master) for more info on what issues qualify for this category and their severity.
 
-1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
+1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=57) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
 1. Select **Production Issues on docs.microsoft.com/answers site** under *Select Service Category* for any live site incidents, such as site is down, performing badly, cannot post, etc.
 1. Enter a brief title of the issue.
 1. Select the severity.
@@ -29,7 +29,7 @@ Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) to report any i
 
 There will be sometimes you are in our PPE environment doing some testing or testing a new feature that is not yet released yet. In those cases, you use this category. 
 
-1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
+1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=58) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
 1. Under *Select Service Category*, select **Pre-production issues on ppe.docs.microsoft.com/answers site**.
 1. Enter a brief title of the issue.
 1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
@@ -43,7 +43,7 @@ There will be sometimes you are in our PPE environment doing some testing or tes
 
 This option is for bugs on existing functionality, such as broken links, an option is missing, number of following items do not appear on the site, etc.
 
-1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
+1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=59) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
 1. Under *Select Service Category*, select **Bug**.
 1. Enter a brief title of the issue.
 1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
@@ -55,7 +55,7 @@ This option is for bugs on existing functionality, such as broken links, an opti
 
 This option is for functionality that do not exist today that you wish it existed, such as tag synonyms, site notifications, etc.
 
-1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
+1. Go to [SiteHelp](https://sitehelp.microsoft.com/new?fid=60) and select **"Q&A"** under *Where the change is needed or where the issue happens?* section.
 1. Under *Select Service Category*, select **Feature Request**.
 1. Enter a brief title of the new functionality.
 1. Add any additional tags you think are pertinent. Please do not remove the existing tags.
