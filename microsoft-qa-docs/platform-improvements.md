@@ -5,8 +5,10 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 ## August 3, 2020
 
 - When suspending a user in the moderator tab twice it removes the suspension
-- When selecting an option from Advanced Visibility, the UI does not show the selection made by the user before posting the comment
-- Advanced visibility selection is not displayed in the UI when coming back to the Advanced Visibility modal
+- Private messages
+    - When entering a private message, user needs to refresh the page to see the message is private
+    - When selecting an option from Advanced Visibility, the UI does not show the selection made by the user before posting the comment
+    - Advanced visibility selection is not displayed in the UI when coming back to the Advanced Visibility modal
 - Can convert private comments to answers
 - Accessibility bugs
 
