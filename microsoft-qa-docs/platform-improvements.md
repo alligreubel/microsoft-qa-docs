@@ -2,6 +2,14 @@
 
 This document shows a list of bugs/improvements done in Microsoft Q&A. Those are a combination of internal feedback, customer feedback, and our own testing.
 
+## August 3, 2020
+
+- When suspending a user in the moderator tab twice it removes the suspension
+- When selecting an option from Advanced Visibility, the UI does not show the selection made by the user before posting the comment
+- Advanced visibility selection is not displayed in the UI when coming back to the Advanced Visibility modal
+- Can convert private comments to answers
+- Accessibility bugs
+
 ## July 20, 2020
 
 - Editor issues fixed:
@@ -12,6 +20,8 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
     - Answers are shown blank when the text has @ code 
     - Format is lost and additional tags getting added on converted comment
 - When changing an idea status, the Settings context menu opens
+- Follow button not working from Search for topic result page
+- Deleted comments not visible without a page refresh
 - Accessibility bugs
 
 ## June 29, 2020
