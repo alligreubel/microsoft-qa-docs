@@ -71,7 +71,7 @@ We believe that we should stay as high-levels with tags as possible to make them
 
 Tag descriptions help customers to better understand which service the tag represents.
 
-- Tag descriptions start with "Questions about..."
+- Tag descriptions start with "Technical questions about..."
 - Tag descriptions have a maximum of 255 characters to keep them short and to the point.
 - Tag descriptions do not contain line breaks.
 
