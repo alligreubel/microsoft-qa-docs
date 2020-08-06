@@ -2,10 +2,12 @@
 
 ##
 > [!IMPORTANT]
-This page is currently under construction.
+> This page is currently under construction.
+##
 ##
 Q&A Permissions will be requested by the Forum owners.
-
+##
+##
 |Permission type  | Authenticated Users  |Product Groups  |Microsoft Moderator  |
 |---------|---------|---------|---------|
 |Add a tag icon     |Revoked       |  Revoked    |   Granted     |
