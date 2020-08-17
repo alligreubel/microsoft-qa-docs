@@ -9,8 +9,7 @@ On Microsoft Q&A, we are using two different surveys to track customer satisfact
 
 2. **Original poster (OP) survey:** This survey is triggered for 100% of users who:
 <br> a. Ask a question and navigate away from the page
-<br> b. Return to the question page, where an answer has been proposed
-<br> c. Stay on page for 5 minutes<br>
+<br> b. Return to the question page, where an answer has been proposed<br>
 ![Screenshot of question asking experience survey](media/op_survey.PNG)
 
 **OP survey details:**
